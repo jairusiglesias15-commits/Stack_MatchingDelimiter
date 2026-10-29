@@ -2,7 +2,7 @@
 
 Laboratory activity for **Data Structures** (BSIT, CN 48079) at Ramon Magsaysay Memorial College.
 
-Programmed by: Joshua L. Muñasque
+Programmed by: Jairus T. Iglesias
 
 ## Description
 
